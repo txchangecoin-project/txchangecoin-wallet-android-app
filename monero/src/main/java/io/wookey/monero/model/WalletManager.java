@@ -56,7 +56,7 @@ public class WalletManager {
             case NetworkType_Testnet:
                 return "9A-";
             case NetworkType_Mainnet:
-                return "4-";
+                return "TXCH-";
             case NetworkType_Stagenet:
                 return "5-";
             default:
