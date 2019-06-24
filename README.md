@@ -1,4 +1,4 @@
-# WooKey Wallet: For Privacy
+# Txchangecoin Wallet: For Privacy
 
 > Less Privacy Collection; More Privacy Coins; Fully Open Source; Better User Experience
 
@@ -26,7 +26,7 @@ Simple, efficient, ease of use. The easiest way to get started with cryptocurren
 
 ## How To Build
 
-https://github.com/WooKeyWallet/monero-android-lib
+https://github.com/txchangecoin-project/txchangecoin-android-lib
 
 ## About Us
 
