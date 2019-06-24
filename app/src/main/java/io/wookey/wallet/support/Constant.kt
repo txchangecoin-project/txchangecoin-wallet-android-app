@@ -24,28 +24,28 @@ const val ZH_CN = "zh-CN"
 const val EN = "en"
 
 val coinList = listOf(
-        Coin("XMR", "Monero")
+        Coin("TXX", "Txchangecoin")
 )
 
 val nodeArray = arrayOf(
         Node().apply {
-            symbol = "XMR"
-            url = "node.moneroworld.com:18089"
+            symbol = "TXX"
+            url = "80.211.14.44:38381"
             isSelected = true
         },
         Node().apply {
-            symbol = "XMR"
-            url = "opennode.xmr-tw.org:18089"
+            symbol = "TXX"
+            url = "80.211.167.81:38381"
             isSelected = false
         },
         Node().apply {
-            symbol = "XMR"
-            url = "uwillrunanodesoon.moneroworld.com:18089"
+            symbol = "TXX"
+            url = "206.189.34.54:38381"
             isSelected = false
         },
         Node().apply {
-            symbol = "XMR"
-            url = "124.160.224.28:18081"
+            symbol = "TXX"
+            url = "209.97.168.80:38381"
             isSelected = false
         }
 )

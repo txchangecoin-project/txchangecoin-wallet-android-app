@@ -18,7 +18,7 @@ class VersionManager {
 
     fun getLatestReleases() {
         uiScope.launch {
-            val url = "https://api.github.com/repos/WooKeyWallet/wookey-wallet-android-app/releases/latest"
+            val url = "https://api.github.com/repos/txchangecoin-project/t-xchangecoinwallet-android-app/releases/latest"
             try {
                 withContext(Dispatchers.IO) {
                     getLatestReleases(URL(url))
